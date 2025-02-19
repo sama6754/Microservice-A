@@ -11,3 +11,5 @@ B. To programmatically receive data from the microservice, an application must p
 C. The diagram below illustrates how data flows between the application and the microservice. 
 
 ![UML](uml.png)
+
+** Before running the program locally make sure to fill in the config file and to import the sql file into your database.
